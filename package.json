@@ -1,0 +1,30 @@
+{
+  "name": "@burakkggul/create-analog-clock",
+  "version": "1.0.0",
+  "description": "Analog clock builder command line interface.",
+  "bin": {
+    "@burakkggul/create-analog-clock": "bin/create-analog-clock",
+    "create-analog-clock": "bin/create-analog-clock"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burakkggul/create-analog-clock.git"
+  },
+  "keywords": [
+    "Create",
+    "Analog",
+    "Clock"
+  ],
+  "author": "Burak GÜL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burakkggul/create-analog-clock/issues"
+  },
+  "homepage": "https://github.com/burakkggul/create-analog-clock"
+}
