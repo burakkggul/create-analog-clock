@@ -1,5 +1,7 @@
 # Analog Clock Creator
 
+![Node.js Package](https://github.com/burakkggul/create-analog-clock/workflows/Node.js%20Package/badge.svg)
+
 Analog clock builder command line interface. You can create a analog clock with this command line interface.
 
 ## Installation
