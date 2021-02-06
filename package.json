@@ -1,6 +1,6 @@
 {
   "name": "@burakkggul/create-analog-clock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analog clock builder command line interface.",
   "bin": {
     "@burakkggul/create-analog-clock": "bin/create-analog-clock",
